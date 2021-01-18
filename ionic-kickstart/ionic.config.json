@@ -1,0 +1,7 @@
+{
+  "name": "ionic-kickstart",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
