@@ -1,6 +1,11 @@
 # YoklamAPP
  Mobile Programming HomeWork
  
+ Requirements:
+ -Node.js
+ -Visual Studio Code
+ -Ionic CLI
+ 
  Download the source code.
  
  Open folder "ionic-kickstart" with Visual Studio Code.
