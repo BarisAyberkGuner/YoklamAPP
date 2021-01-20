@@ -2,9 +2,14 @@
  Mobile Programming HomeWork
  
  Requirements:
+ 
  -Node.js
+ 
  -Visual Studio Code
+ 
  -Ionic CLI
+ 
+## Deployment 
  
  Download the source code.
  
@@ -17,6 +22,8 @@
  Project will run on localhost server. You can see port on terminal.
  
  ![alt text](https://raw.githubusercontent.com/BarisAyberkGuner/YoklamAPP/master/Screenshots/port.png?token=AIX7RREO3UORO2TG2FM42VTACF3TQ)
+ 
+## Application Usage
  
  Go to localhost:xxxx on your web browser.
  
