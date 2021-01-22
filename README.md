@@ -9,6 +9,10 @@
  
  -Ionic CLI
  
+ Realtime Database:
+ 
+ -Firebase
+ 
 ## Deployment 
  
  Download the source code.
